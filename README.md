@@ -13,3 +13,9 @@ https://www.yourdomain.com/route/anotherroute -> https://www.yourdomain.com/mana
 ## Configuration
 
 The default route string is "management". Settings for the preconfigured route can be changed by accessing the extension options page in the extension details, which is displayed in chrome://extensions/.
+
+## Todo
+
+- Style options page
+- Add query string option
+- Allow for toggling on/off for route and query string
